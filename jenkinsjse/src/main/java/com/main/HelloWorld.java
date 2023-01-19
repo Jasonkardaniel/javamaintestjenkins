@@ -8,6 +8,7 @@ public class HelloWorld {
 		HelloWorld helloWorld = new HelloWorld();
 		String data =  helloWorld.callService("Happy");
 		System.out.println(data);
+		System.out.println("Happy learning");
 	}
 
 	public String callService(String name) {
