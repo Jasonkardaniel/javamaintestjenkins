@@ -1,0 +1,4 @@
+# Created at 2023-01-19T15:14:15.380
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Fresher\Batch3_Final\Batch3_Final_workspace\jenkinsjse\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
